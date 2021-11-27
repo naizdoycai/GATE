@@ -1,8 +1,9 @@
 {
     "chapters": {
-        "106": {
+        "1": {
             "groups": {
                 "GDrive": [
+
 							"https://drive.google.com/uc?id=1eOlRANx8fSIohCXY1HZxAZGx1FKicZwu",
 							"https://drive.google.com/uc?id=1UIGpPK5xqF7Vh82M0FY0uGgpBPxY6pmF",
 							"https://drive.google.com/uc?id=1UGRBIPxCFkLux8BU5PBPa_W86vBBoyda",
@@ -23,15 +24,14 @@
 							"https://drive.google.com/uc?id=1TYj-yUI1qob6QzlVtiISpnn9HvfOx5Hb",
 							"https://drive.google.com/uc?id=199FgfOMK40-wLBxzWln3OreMkzQ-DCju",
 							"https://drive.google.com/uc?id=1TVyRWGyytpGXZWmWCmuB7W10jAp0a4oH"
-
                 ]
             },
             "last_updated": 1628882629,
-            "title": "Chapter 106",
-            "volume": "000"
+            "title": "Chapter 1: One Punch",
+            "volume": "1"
         },
    },
-    "cover": "https://drive.google.com/uc?id=1zxCC_XSBSWsKvpZzQ8HqFbKZyAYTqjy0",
-    "description": "you know gate /n/translated by oso and hosted by cubari aka guya images hosted by gdrive",
-    "title": "GATE"
+    "cover": "https://cdn.discordapp.com/attachments/754390245860048900/814308196620697640/23_-_p000_-_aKraa.jpg",
+    "description": "All the chapters are up to date with the Redraws\n\nNote that if you're having troubles loading images, try (1) signing into a Google account on the browser you're using, and (2) enable cross-site cookies.\n\nRead retconned (no longer canon) chapters here: https://cubari.moe/read/gist/JRalY/\n\nContent hosted externally at https://drive.google.com/drive/folders/1WHIXJvx2Wkmz2zAY5E9TR1iHMbDRtf_y",
+    "title": "One Punch Man"
 }
