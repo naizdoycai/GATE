@@ -42,17 +42,7 @@
       "volume": "000",
       "last_updated": "1639539350",
       "groups": {
-        "GDrive": [
-          "https://drive.google.com/uc?id=1aG10OGIkjXho3zvw9BsF4tjrgUnGj4DN",
-          "https://drive.google.com/uc?id=1XkQ0D37lAgzcw_aeWEDoYGLYjLAqpn4e",
-          "https://drive.google.com/uc?id=1kR4PqjtmJhr-35d_BqhAUnfT9B8iRzKF",
-          "https://drive.google.com/uc?id=1W4NfkkJlWxDEsOq7midg4sxfG11RHguA",
-          "https://drive.google.com/uc?id=1sj4pobyLgCZ1lYnClot3-1GsLQpUDSyB",
-          "https://drive.google.com/uc?id=1VvmLwU3bWiKlYh-5S2VrpujN49qzKTlq",
-          "https://drive.google.com/uc?id=1diASPv-9HNaIvliU9dXYkgOJJBXXOivg",
-          "https://drive.google.com/uc?id=10uIf8VQsXldJTHE9lmR2aRtjiQBFHdWx",
-          "https://drive.google.com/uc?id=1cdZzmX4qFpL9yduMn5W-jKExCzdGDBio"
-        ]
+        "GDrive": "/proxy/api/imgur/chapter/swMIWsR"
       }
     },
     "000": {
